@@ -1,0 +1,4 @@
+:HL["/Modern-design-system/_next/static/chunks/05v2wt90z80oc.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"hWKWR4jJm1yp_l0Qn-ZyJ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
